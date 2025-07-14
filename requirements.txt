@@ -3,3 +3,6 @@ openpyxl
 pandas
 scikit-learn
 SQLAlchemy
+xgboost
+joblib
+sqlalchemy
